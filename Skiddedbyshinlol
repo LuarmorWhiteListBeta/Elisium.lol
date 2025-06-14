@@ -260,7 +260,7 @@ elseif ShinLol.Camlock.Mode == "Button" then
             button.Name = "LockButton"
             button.Size = UDim2.new(0, 100, 0, 55)
             button.Position = UDim2.new(0.5, -100, 0.8, -25)
-            button.Text = "Aimlock"
+            button.Text = "shin.xd"
             button.TextSize = 15
             button.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
             button.TextColor3 = Color3.fromRGB(255, 255, 255)
